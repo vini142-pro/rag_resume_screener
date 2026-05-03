@@ -1,0 +1,26 @@
+Vini Shekhar| vinishekhar142@gmail.com | GitHub: vini142-pro
+
+Summary:
+B.Tech IV Semester student specializing in AI/ML and full-stack development.
+Experienced in building ML pipelines, NLP systems, and web applications.
+Internship experience at Istudio and 3Skills in AI/ML roles.
+
+Skills:
+Python, scikit-learn, PyTorch, TensorFlow, HuggingFace, NLP, BERT, spaCy,
+NLTK, text classification, sentiment analysis, FAISS, embeddings,
+pandas, NumPy, matplotlib, seaborn, Flask, REST API, React, Git, Docker
+
+Experience:
+- AI/ML Intern @ Istudio: Built NLP models for text classification tasks.
+- AI/ML Intern @ 3Skills: Developed machine learning pipelines for data analysis.
+
+
+Projects:
+- Face Recognition System using PCA and ANN
+- Resume Screening System (TF-IDF + Cosine Similarity)
+- Fake Job Posting Detection (NLP + Random Forest)
+- RAG Resume Screener (HuggingFace + FAISS + LLM)
+
+Education:
+B.Tech Computer Science (IV Semester), 2026
+Focus: Artificial Intelligence and Machine Learning
